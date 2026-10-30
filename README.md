@@ -1,25 +1,25 @@
-# 🧠 Symbool — Sistem Penyederhanaan Logika Boolean Interaktif
+# Symbool — Sistem Penyederhanaan Logika Boolean Interaktif
 
 **Symbool** adalah aplikasi web edukatif berbasis Python dan JavaScript yang dirancang untuk menyederhanakan ekspresi logika Boolean secara otomatis menggunakan metode populer seperti **Simplify**, **Karnaugh Map (K-Map)**, dan **Quine-McCluskey**. Aplikasi ini ideal untuk mahasiswa, dosen, dan praktisi logika digital atau Matematika Diskrit.
 
-🔗 **Coba aplikasi langsung**: [[https://symbool-app.onrender.com]](https://symbool-app.onrender.com))
+**Coba aplikasi langsung**: [[https://symbool-app.onrender.com]](https://symbool-app.onrender.com))
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-- ✅ Input ekspresi simbolik langsung (contoh: `A'B + AB' + ABC`)
-- 🔄 Penyederhanaan otomatis menggunakan:
+- Input ekspresi simbolik langsung (contoh: `A'B + AB' + ABC`)
+- Penyederhanaan otomatis menggunakan:
   - **Simplify** (default) — via symbolic logic
   - **Karnaugh Map (K-Map)** — untuk ekspresi hingga 4 variabel
   - **Quine-McCluskey** — untuk ekspresi lebih dari 4 variabel
-- 📊 Tabel kebenaran otomatis dan dapat diekspor
-- 🧩 Visualisasi K-Map interaktif
-- 🧠 Proses logika ditampilkan secara transparan
-- 📤 Fitur ekspor tabel kebenaran ke format CSV
+- Tabel kebenaran otomatis dan dapat diekspor
+- Visualisasi K-Map interaktif
+- Proses logika ditampilkan secara transparan
+- Fitur ekspor tabel kebenaran ke format CSV
 
 
-## 🚀 Cara Menjalankan Secara Lokal
+## Cara Menjalankan Secara Lokal
 
 ### 1. Clone Repository
 
